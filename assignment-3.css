@@ -21,3 +21,8 @@ p {
   color: purple;
 }
 
+div {
+  padding: 50px;
+  margins: 80px;
+  border: 10px solid black;
+}
