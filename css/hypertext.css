@@ -1,1 +1,7 @@
-
+body {
+  background-color: black;
+  font-family: courier new;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
