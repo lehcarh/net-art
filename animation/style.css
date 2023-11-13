@@ -6,7 +6,6 @@ html, body {
   color: green;
   position: absolute;
   text-align: center;
-  vertical-align: center;
 }
 canvas {
   display: block;
