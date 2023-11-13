@@ -1,6 +1,13 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #009dc4;
+  font-family: serif;
+  font-style: American Typewriter;
+  font-size: 24pt;
+  color: green;
+  text-align: center;
+  vertical-align: center;
 }
 canvas {
   display: block;
