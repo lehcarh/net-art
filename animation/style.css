@@ -8,6 +8,8 @@ html, body {
 p {
   margin-left: auto;
   margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
   width: 50%;
   text-align: center;
   line-height: 1.5;
