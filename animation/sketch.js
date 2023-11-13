@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(#009dc4);
   stroke(200);
   
   translate(width/2, height/2);
