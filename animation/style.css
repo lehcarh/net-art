@@ -5,9 +5,11 @@ html, body {
   font-size: 24pt;
   color: #F33A6A;
 }
-div {
+p {
   text-align: center;
-  vertical-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
 }
 canvas {
   display: block;
