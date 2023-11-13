@@ -8,13 +8,13 @@ html, body {
 p {
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: 75%;
   text-align: center;
   line-height: 1.5;
   vertical-align: middle;
 }
 div {
-  padding: 50%;
+  padding: 100px;
   text-align: center;
 }
 canvas {
