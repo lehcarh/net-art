@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/3a/0b/40/3a0b40d96c53860572a1c29970ce14a8.gif");
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-family: Verdana;
+}
+
+p {
+    margin: 120px;
+    text-align: left;
+    font-size: 20px;
+}
+
+div {
+    text-align: center;
+    margin: 80px;
+    padding: auto;
+}
+
+img {
+    width: 20%;
+}
